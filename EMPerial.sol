@@ -313,7 +313,7 @@ contract MintableToken is StandardToken, Ownable {
     }
 }
 
-contract EMPemrial is MintableToken {
+contract EMPerial is MintableToken {
     string public constant name = "EMPerial";
     string public constantsymbol = "EMP";
     uint32 public constant decimals = 18;
